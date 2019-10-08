@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="lxs"
+  id="myeclipse.1369817836765"
+  context-root="/lxs"
+  j2ee-spec="5.0"
+  archive="lxs.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
